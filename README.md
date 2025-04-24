@@ -1,7 +1,7 @@
 # Cleaning A Dirty Sales Cafe Data
 ## Project Overview
 
-This project aims to clean and prepare the dirty cafe sales dataset for analysis. By changing the data type of one of the columns, fixing errors, removing blank spaces, and replacing unknown values in each field, I was able to clean the data and prepare it for analysis.
+This project aims to clean and prepare the dirty cafe sales dataset for analysis. By changing the data types of few of the columns, fixing errors, removing blank spaces, and replacing unknown values in each field, I was able to clean the data and prepare it for analysis.
 
 ## Data Source
 
