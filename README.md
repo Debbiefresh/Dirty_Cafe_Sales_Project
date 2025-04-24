@@ -21,6 +21,9 @@ The following steps are what I did to clean the data:
 - Replaced blank spaces with not available in each of the item, total spent, and location columns.
 - Replaced error with null in each of the item, total spent, and location columns.
 
+#### NB
+Thank you so much for going through the project, I am open to corrections and feedback on how I would have done it better.
+
 
 
 
