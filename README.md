@@ -21,7 +21,6 @@ The following steps are what I did to clean the data:
 - Replaced blank spaces with not available in each of the item, total spent, and location columns.
 - Replaced error with null in each of the item, total spent, and location columns.
 
-### SQL Source Code
 
 
 
